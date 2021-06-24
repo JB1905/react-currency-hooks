@@ -11,6 +11,10 @@
 
 Currency converter React hook
 
+### Demo
+
+**[Playground – play with library in CodeSandbox](https://codesandbox.io/s/react-currency-hooks-l3b1l)**
+
 ### Similar Projects
 
 - [Cashify](https://github.com/xxczaki/cashify/) by [Antoni Kepinski](https://github.com/xxczaki/)
